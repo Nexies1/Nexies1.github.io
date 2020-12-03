@@ -238,7 +238,7 @@ Rank Requirements by House Level:
   | Cockroaches in the room    | \-2500 times # of cockroaches                 |
   | Trash in room              | \-500 times # of pieces of trash              |
 
-[^1]: Items with ItemHHADirection as 1 in the spreadsheet.
+[^1]: Items that are listed [here](/assests/direction).
 
 **Note**: Points are calculated per room, unless stated otherwise. There's no luck mechanic in the game.
 
