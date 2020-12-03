@@ -234,11 +234,11 @@ Rank Requirements by House Level:
   | Conditions                 | Points Deducted                               |
   |----------------------------|-----------------------------------------------|
   | Items dropped on the floor | \-1 times # of items                          |
-  | Items facing the wall      | \-300 times # of improperly placed items [^1] |
+  | Items<sup>1</sup> facing the wall      | \-300 times # of improperly placed items      |
   | Cockroaches in the room    | \-2500 times # of cockroaches                 |
   | Trash in room              | \-500 times # of pieces of trash              |
 
-[^1]: Items that are listed [here](/assests/direction).
+<sup>1</sup>: Items that are listed [here](/direction).
 
 **Note**: Points are calculated per room, unless stated otherwise. There's no luck mechanic in the game.
 
