@@ -3,6 +3,11 @@
 //
 // stylelint-disable selector-no-type, selector-max-type
 
+@font-face{
+  font-family: "AudioWide";
+  src: url("./assets/fonts/Audiowide-Regular.ttf");
+}
+
 * {
   box-sizing: border-box;
 }
@@ -19,7 +24,6 @@ html {
 
 body {
   font-family: "AudioWide";
-  src: url("./assets/fonts/Audiowide-Regular.ttf");
   font-size: inherit;
   line-height: $body-line-height;
   color: $body-text-color;
