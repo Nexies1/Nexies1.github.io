@@ -18,7 +18,8 @@ html {
 }
 
 body {
-  font-family: $body-font-family;
+  font-family: "AudioWide";
+  src: url("./assets/fonts/Audiowide-Regular.ttf");
   font-size: inherit;
   line-height: $body-line-height;
   color: $body-text-color;
